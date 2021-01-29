@@ -1,0 +1,19 @@
+ #annuler{
+	-fx-background-color:#86aba1;
+	-fx-text-fill : white;
+	}
+	
+ #annuler:hover{
+	-fx-background-color: #cdd0cb ;
+	-fx-cursor:hand;
+}
+
+#uppdate{
+	-fx-background-color: #1a508b;
+	-fx-text-fill : white;
+	}
+	
+ #uppdate:hover{
+	-fx-background-color: #3282B8;
+	-fx-cursor:hand;
+}
